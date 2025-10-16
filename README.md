@@ -1,16 +1,1 @@
-# tourist
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+As mentioned in the tutorial, I learned each step involved in designing a simple Flutter layout. I explored how to structure the layout using different classes such as Title, Text, Button, and Image sections, and how these components can be used as children within the body widget, enhanced by the SingleChildScrollView for smooth scrolling. Additionally, I gained an understanding of how to modify the styles and visual design of the layout to improve its overall appearance and user experience.
